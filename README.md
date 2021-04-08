@@ -1,2 +1,3 @@
 # hello-word
-welcome to github
+ hello humans how yall doin 
+ 
